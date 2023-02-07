@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  form {
+    @apply my-10;
+  }
+
+  form div {
+    @apply relative;
+  }
+
+  .search-icon {
+    @apply absolute text-purple top-1/2 -translate-y-1/2 text-2xl right-0 items-start;
+  }
+
+  .custom-dot {
+    @apply bg-purple p-1 mt-2 rounded-full;
+  }
+}

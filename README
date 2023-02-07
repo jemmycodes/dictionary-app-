@@ -1,0 +1,17 @@
+Dictionary App
+
+Stand out Features
+
+- Toggle between light and dark theme
+- Toggle fonts (serif, sans, mono)
+- Hear audio pronounciation for words searched for
+- Show error for empty field etc
+
+Technologies used
+
+- React
+- Tailwind CSS
+- Styled Components
+- Flowbite (custom tailwind components)
+- Context API
+- React Icons
